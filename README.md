@@ -1,0 +1,2 @@
+# QR_code_scanner_animation_test
+mi practica de qr_code_scanner_animation_effect
